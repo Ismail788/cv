@@ -74,3 +74,23 @@ img.avatar{
 .link-item svg {
   margin-right: 6px;
 }
+/******
+Experience****/
+.job{
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid lightgray;
+}
+.job:last-child{
+  border-bottom: none;
+}
+.job-title-container{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.job-company{
+  font-weight: bold;
+  line-height: 1.2;
+}
