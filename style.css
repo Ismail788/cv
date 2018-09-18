@@ -132,7 +132,7 @@ references****/
   .links, .job-title-container{
     flex-direction: column;
   }
-  .links-container{
+  .skills-container{
     grid-template-columns: 1fr 1fr;
   }
   .interests-container{
