@@ -38,7 +38,7 @@ section{
   display: grid;
   grid-template-columns: 1fr 4fr;
   grid-gap: 20px;
-  padding: 24px o;
+  padding: 24px 0;
   border-bottom: 1px solid lightgray;
 }
 select:last-child{
