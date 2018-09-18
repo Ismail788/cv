@@ -106,3 +106,22 @@ Experience****/
   margin-left: 20px;
   list-style-type: disc;
 }
+/*********
+.interest******/
+.interests-container{
+  display: flex;
+  justify-content: space-between;
+
+}
+.interests-container img{
+  height: 35px;
+  opacity: 0.7spx;
+}
+/**********
+references****/
+.reference{
+  font-size: 18px;
+}
+.reference details{
+  margin-bottom: 20px;
+}
