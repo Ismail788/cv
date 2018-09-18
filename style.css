@@ -44,3 +44,7 @@ section{
 select:last-child{
   border-bottom: none;
 }
+.select-title{
+  font-size: bold;
+  font-size: 18px;
+}
