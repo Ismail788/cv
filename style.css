@@ -126,7 +126,7 @@ references****/
   margin-bottom: 20px;
 }
 @@media only screen and (max-weight : 768px) {
-  select{
+  section{
     grid-template-columns: 1fr;
   }
   .links, .job-title-container{
