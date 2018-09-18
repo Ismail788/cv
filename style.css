@@ -48,3 +48,29 @@ select:last-child{
   font-size: bold;
   font-size: 18px;
 }
+/***********
+.min-info******/
+img.avatar{
+  width: 138px;
+}
+.my-name{
+  font-size: 48px;
+  line-height: 1;
+}
+.my-title{
+  font-size: 24px;
+  font-weight: 300;
+  color: #236FB2;
+}
+.liknks{
+  display: flex;
+  margin: 10px 0 20px 0;
+}
+.link-item{
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.link-item svg{
+  margin-right: 6px;
+}
