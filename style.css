@@ -122,7 +122,7 @@ references****/
 .reference details{
   margin-bottom: 20px;
 }
-@@media only screen and (max-weight : 768px) {
+@media only screen and (max-weight : 768px) {
   section{
     grid-template-columns: 1fr;
   }
