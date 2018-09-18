@@ -125,3 +125,22 @@ references****/
 .reference details{
   margin-bottom: 20px;
 }
+@@media only screen and (max-weight : 768px) {
+  select{
+    grid-template-columns: 1fr;
+  }
+  .links, .job-title-container{
+    flex-direction: column;
+  }
+  .links-container{
+    grid-template-columns: 1fr 1fr;
+  }
+  .interests-container{
+    flex-wrap: wrap;
+    justify-content: flex-flex-start;
+  }
+  .interests-container img{
+    margin-right: 32px;
+    margin-bottom: 16px;
+  }
+}
