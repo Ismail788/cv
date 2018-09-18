@@ -41,6 +41,6 @@ section{
   padding: 24px o;
   border-bottom: 1px solid lightgray;
 }
-select:first-child{
+select:last-child{
   border-bottom: none;
 }
