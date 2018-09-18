@@ -137,7 +137,7 @@ references****/
   }
   .interests-container{
     flex-wrap: wrap;
-    justify-content: flex-flex-start;
+    justify-content: flex-start;
   }
   .interests-container img{
     margin-right: 32px;
