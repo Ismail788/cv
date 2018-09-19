@@ -68,7 +68,7 @@ img.avatar{
 }
 .link-item{
   display: flex;
-  align-items: center;
+  align-items: space-between;
   flex: 1;
 }
 .link-item svg {
