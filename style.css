@@ -146,4 +146,8 @@ references/we need to check more on it****/
     margin-right: 32px;
     margin-bottom: 16px;
   }
+  .reference{
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
 }
