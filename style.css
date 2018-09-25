@@ -147,7 +147,7 @@ references/we need to check more on it****/
     margin-bottom: 16px;
   }
   .reference{
-    flex-wrap: wrap;
-    justify-content: flex-start;
+    display: flex;
+    flex: 1;
   }
 }
