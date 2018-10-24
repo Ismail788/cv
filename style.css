@@ -132,7 +132,7 @@ references/we need to check more on it****/
   section{
     grid-template-columns: 1fr;
   }
-  .links, .job-title-container {
+  .links, .job-title-container img{
     flex-direction: column;
   }
   .skills-container{
