@@ -136,6 +136,9 @@ references/we need to check more on it****/
   .links, .job-title-container img{
     flex-direction: column;
   }
+  .link-name img{
+    flex: initial;
+  }
   .skills-container{
     grid-template-columns: 1fr 1fr;
   }
